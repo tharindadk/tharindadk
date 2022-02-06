@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tharinda.
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning Java and JavaScript.
+- 👀 I’m interested in mobile application development.
+- 🌱 I’m currently learning Android and Kotlin.
 - 💞️ I’m looking to collaborate on GitHub.
 - 📫 How to reach me --> tharindakodikara@outlook.com
 
