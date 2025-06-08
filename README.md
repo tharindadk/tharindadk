@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tharinda.
 - 👀 I’m interested in game development.
-- 🌱 I’m currently learning Angular and .NET.
+- 🌱 I’m currently learning Godot.
 - 💞️ I’m looking to collaborate on GitHub.
 - 📫 How to reach me --> tharindakodikara@outlook.com
 
